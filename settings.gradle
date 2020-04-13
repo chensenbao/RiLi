@@ -1,0 +1,2 @@
+rootProject.name='RiLi'
+include ':app'
